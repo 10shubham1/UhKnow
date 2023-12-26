@@ -1,0 +1,62 @@
+[
+  {
+    "LauncherPath": "Z:\\No Man\u0027s Sky\\Binaries\\NMS.exe",
+    "GameName": "NMS",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\NMS.ico"
+  },
+  {
+    "LauncherPath": "Z:\\Grounded\\Grounded.exe",
+    "GameName": "Grounded",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\Grounded.ico"
+  },
+  {
+    "LauncherPath": "Z:\\Cyberpunk 2077\\bin\\x64\\Cyberpunk2077.exe",
+    "GameName": "Cyberpunk2077",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\Cyberpunk2077.ico"
+  },
+  {
+    "LauncherPath": "Z:\\Red Dead Redemption 2\\Launcher.exe",
+    "GameName": "RDR2",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\RDR2.ico"
+  },
+  {
+    "LauncherPath": "Z:\\The Witcher 3 Wild Hunt GOTY\\bin\\x64\\witcher3.exe",
+    "GameName": "Witcher 3",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\witcher3.ico"
+  },
+  {
+    "LauncherPath": "Z:\\Batman Arkham Knight\\Binaries\\Win64\\BatmanAK.exe",
+    "GameName": "BatmanAK",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\BatmanAK.ico"
+  },
+  {
+    "LauncherPath": "Z:\\Poly Bridge 3\\Poly Bridge 3.exe",
+    "GameName": "Poly Bridge 3",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\Poly Bridge 3.ico"
+  },
+  {
+    "LauncherPath": "S:\\Epic Games\\Games\\Timberborn\\Timberborn.exe",
+    "GameName": "Timberborn",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\Timberborn.ico"
+  },
+  {
+    "LauncherPath": "S:\\Epic Games\\Games\\RiseoftheTombRaider\\ROTTR.exe",
+    "GameName": "ROTTR",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\ROTTR.ico"
+  },
+  {
+    "LauncherPath": "S:\\Epic Games\\Games\\CitiesSkylines\\Cities.exe",
+    "GameName": "Cities Skylines",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\Cities.ico"
+  },
+  {
+    "LauncherPath": "S:\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe",
+    "GameName": "EpicGamesLauncher",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\EpicGamesLauncher.ico"
+  },
+  {
+    "LauncherPath": "S:\\Steam\\steam.exe",
+    "GameName": "Steam",
+    "IconPath": "S:\\Projects\\UhKnow\\Icons\\steam.ico"
+  }
+]
